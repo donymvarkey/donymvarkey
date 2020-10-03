@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **ReactJs, Flutter**
 
+- 👨‍💻 Favourite Language **JavaScript**
+
 - 📫 How to reach me **donyvarkey@gmail.com**
 
 <p align="left">
