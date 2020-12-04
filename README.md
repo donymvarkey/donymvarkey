@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donymvarkey" alt="donymvarkey" /> </p>
 
-- 🔭 I’m currently working on [shop-management](https://github.com/donymvarkey/shop-management)
+- 🔭 I’m currently working on [pokedex](https://github.com/donymvarkey/pokedex-web)
 
 - 🌱 I’m currently learning **ReactJs, Flutter**
 
