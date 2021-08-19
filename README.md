@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/donymvarkey" target="blank"><img src="https://img.shields.io/twitter/follow/donymvarkey?logo=twitter&style=for-the-badge" alt="donymvarkey" /></a> </p>
 
-- 🌱 I’m currently learning **Seleniumbase with Python (Automation Testing).**
+- 🌱 I’m currently working as **Jr. Software Engineer at Certo Exim**
 
-- 🤝 I’m looking for help with **Automation Testing**
+- 🤝 I’m looking for help with **React**
 
 - 📫 How to reach me **donyvarkey@gmail.com**
 
