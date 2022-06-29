@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/donymvarkey" target="blank"><img src="https://img.shields.io/twitter/follow/donymvarkey?logo=twitter&style=for-the-badge" alt="donymvarkey" /></a> </p>
 
-- 🔭 I’m currently working as **Jr. fullstack Engineer at Certo Exim**
+- 🔭 I’m currently working as **SDE II @ Wingman Partners**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.JS**
 
 - 💬 Ask me about **node.js**
 
