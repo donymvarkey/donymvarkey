@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/donymvarkey" target="blank"><img src="https://img.shields.io/twitter/follow/donymvarkey?logo=twitter&style=for-the-badge" alt="donymvarkey" /></a> </p>
 
-- 🔭 I’m currently working as **SDE II @ Wingman Partners**
+- 🔭 I’m currently working as **SDE @ Appstation**
 
 - 🌱 I’m currently learning **Next.JS**
 
