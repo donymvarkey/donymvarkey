@@ -1,4 +1,4 @@
-[![@dony_varkey's Holopin board](https://holopin.me/dony_varkey)](https://holopin.io/@dony_varkey)
+[![An image of @dony_varkey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dony_varkey)](https://holopin.io/@dony_varkey)
 <h1 align="center">Hi 👋, I'm Dony M Varkey</h1>
 <h3 align="center">A passionate fullstack developer from Kerala, India</h3>
 
@@ -10,9 +10,7 @@
 
 - 🔭 I’m currently working as **SDE @ Appstation**
 
-- 🌱 I’m currently learning **Next.JS**
-
-- 💬 Ask me about **node.js**
+- 💬 Ask me about **Node.js, React.js, React Native, MongoDB**
 
 - 📫 How to reach me **donyvarkey@gmail.com**
 
